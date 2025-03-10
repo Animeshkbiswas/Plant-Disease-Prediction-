@@ -5,30 +5,30 @@ Overview
 
 This project focuses on detecting plant diseases using a deep learning approach. A Convolutional Neural Network (CNN) model was developed using VGG16 and a custom architecture to classify 38 different plant diseases with high accuracy. The system leverages OpenCV for real-time image prediction, aiding early disease detection in plants.
 
-Features
+Features:
 
-Deep Learning Model: Utilized VGG16 and a custom architecture for classification.
+1)Deep Learning Model: Utilized VGG16 and a custom architecture for classification.
 
-Data Augmentation: Applied techniques to enhance model generalization.
+2)Data Augmentation: Applied techniques to enhance model generalization.
 
-Transfer Learning: Used pretrained models to improve performance.
+3)Transfer Learning: Used pretrained models to improve performance.
 
-Hyperparameter Tuning: Optimized model parameters for better accuracy.
+4)Hyperparameter Tuning: Optimized model parameters for better accuracy.
 
-Real-time Detection: Integrated OpenCV for instant predictions.
+5)Real-time Detection: Integrated OpenCV for instant predictions.
 
-Scalability & Memory Efficiency: Focused on resource optimization.
+6)Scalability & Memory Efficiency: Focused on resource optimization.
 
-Technologies Used
+Technologies Used:
 
-Python
+1)Python
 
-TensorFlow / Keras
+2)TensorFlow / Keras
 
-OpenCV
+3)OpenCV
 
-NumPy & Pandas
+4)NumPy & Pandas
 
-Matplotlib & Seaborn
+5)Matplotlib & Seaborn
 
-Scikit-Learn
+6)Scikit-Learn
